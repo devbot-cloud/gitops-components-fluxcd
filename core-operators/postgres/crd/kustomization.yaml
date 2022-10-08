@@ -1,0 +1,3 @@
+resources:
+- postgres-operator.yaml
+- postgres-upgrades.yaml
